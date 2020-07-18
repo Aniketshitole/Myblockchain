@@ -1,0 +1,39 @@
+Assessment of day -1
+
+1stQ)     What is your understating of blockchain?
+Answer:   So basically a blockchain is used for security purposes. When we use blockchain technology we can keep ower data transparent. There is no hacking possible and we can verify ower data also.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+2ndQ)    what is the core problem blockchain trying to solve?
+Answer:  There is less chance to hack the system. There is no need for any third-party library. There is totally verify data. The data will never change, Temper-proof, and Immutable. We never lose the data that data will store more than one computer.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+3rdQ)      What are the few features that blockchain will give you?
+Answer:  the few features that blockchain will give you are 
+verifiable 
+Unchanged
+Tamper-proof
+Immutable
+No hacking 
+Huge security
+Verified data
+Data transparency
+Decentralized
+
+---------------------------------------------------------------------------------------------------------------------------
+
+4thQ)     What all things do a block contains?
+Answer:   A block contains
+Block number
+Transaction records
+Previous Block Signature
+Mining Key
+
+---------------------------------------------------------------------------------------------------------------------------
+
+5thQ)       How all the verifiability of blockchain is been attained?
+Answer:  We can verify ower blockchain data with the hash key if that code gets match then it is correct data otherwise there is wrong data.
+
+
